@@ -24,3 +24,10 @@ Alterações na cópia:
 - Descontos automáticos 15/20/25% (encomenda) passaram a acumular com descontos de produto (não entre si).
 - Carrinho (gaveta e página): bloco "Nuolaidos kodas" com campo + botão (Ajax `/cart/update.js` com `discount`),
   e mensagem a anunciar o SVEIKI10.
+
+## Newsletter -> SVEIKI10 (2026-10-15)
+- Tema v3 foi publicado. Nova cópia **"GRYNA LT v4 — newsletter + SVEIKI10"** (gid://shopify/OnlineStoreTheme/201807036799).
+- v4: mini-popup de newsletter (canto inferior esquerdo, 10 s) — ao subscrever mostra o código SVEIKI10.
+  Mensagem do carrinho já não revela o código; convida a subscrever.
+- Desconto SVEIKI10 restrito ao segmento "Naujienlaiškio prenumeratoriai be užsakymų"
+  (`email_subscription_status = 'SUBSCRIBED' AND number_of_orders = 0`), 1x por cliente.
