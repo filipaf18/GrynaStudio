@@ -16,3 +16,11 @@ Alterações na cópia:
 - `sections/group-overlay.json` + `templates/cart.json`: mensagem do carrinho era o texto de exemplo do tema
   ("Use coupon code WELCOME10…", código que não existe) e o título "Cart" vinha do valor por defeito.
   Agora: título "Krepšelis" e mensagem sobre os descontos automáticos reais (-15% / -20% / -25%).
+
+## Código SVEIKI10 (2026-10-15)
+- Desconto `SVEIKI10`: 10% sobre produtos, só clientes sem encomendas (segmento "Pirmasis užsakymas"),
+  1 utilização por cliente. Classe PRODUTO, acumula com descontos de encomenda.
+- Coleção técnica `visos-prekes-nuolaidoms` (todas as prekės, preço > 0) — usada só pelo desconto; não está publicada.
+- Descontos automáticos 15/20/25% (encomenda) passaram a acumular com descontos de produto (não entre si).
+- Carrinho (gaveta e página): bloco "Nuolaidos kodas" com campo + botão (Ajax `/cart/update.js` com `discount`),
+  e mensagem a anunciar o SVEIKI10.
