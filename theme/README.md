@@ -13,3 +13,6 @@ Alterações na cópia:
 - `templates/password.json`: "Coming Soon" -> "Netrukus atidarome".
 - `templates/index.json`: erros de gramática corrigidos (secção "Apie mus", "Populiariausios prekės"),
   bloco "Drabužiai" passou a apontar para a coleção de roupa (antes apontava para calças).
+- `sections/group-overlay.json` + `templates/cart.json`: mensagem do carrinho era o texto de exemplo do tema
+  ("Use coupon code WELCOME10…", código que não existe) e o título "Cart" vinha do valor por defeito.
+  Agora: título "Krepšelis" e mensagem sobre os descontos automáticos reais (-15% / -20% / -25%).
