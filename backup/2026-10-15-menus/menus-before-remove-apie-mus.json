@@ -1,0 +1,1898 @@
+{
+ "data": {
+  "menus": {
+   "nodes": [
+    {
+     "id": "gid://shopify/Menu/323051913599",
+     "handle": "main-menu",
+     "title": "Pagrindinis meniu",
+     "items": [
+      {
+       "id": "gid://shopify/MenuItem/858929561983",
+       "title": "Naujienos",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/702211981695",
+       "url": "/pt-pt/collections/naujienos",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/858929594751",
+       "title": "Perkamiausios",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/694360605055",
+       "url": "/pt-pt/collections/perkamiausios",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/858929627519",
+       "title": "Moterims",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/694346842495",
+       "url": "/pt-pt/collections/moterims",
+       "tags": [],
+       "items": [
+        {
+         "id": "gid://shopify/MenuItem/858929660287",
+         "title": "Suknelės",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694345335167",
+         "url": "/pt-pt/collections/sukneles",
+         "tags": [],
+         "items": [
+          {
+           "id": "gid://shopify/MenuItem/858929693055",
+           "title": "Vasarinės suknelės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465226623",
+           "url": "/pt-pt/collections/vasaros-sukneles",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858929725823",
+           "title": "Proginės suknelės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465259391",
+           "url": "/pt-pt/collections/vakarines-sukneles",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858929758591",
+           "title": "Ilgos suknelės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361293183",
+           "url": "/pt-pt/collections/ilgos-sukneles",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858929791359",
+           "title": "Midi suknelės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361358719",
+           "url": "/pt-pt/collections/midi-sukneles",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858929824127",
+           "title": "Trumpos suknelės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361391487",
+           "url": "/pt-pt/collections/trumpos-sukneles",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858929856895",
+           "title": "Boho suknelės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465292159",
+           "url": "/pt-pt/collections/boho-stiliaus-sukneles",
+           "tags": []
+          }
+         ]
+        },
+        {
+         "id": "gid://shopify/MenuItem/858929889663",
+         "title": "Drabužiai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361194879",
+         "url": "/pt-pt/collections/moteriski-drabuziai",
+         "tags": [],
+         "items": [
+          {
+           "id": "gid://shopify/MenuItem/858929922431",
+           "title": "Marškiniai ir palaidinės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361620863",
+           "url": "/pt-pt/collections/marskiniai-ir-palaidines",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858929955199",
+           "title": "Topai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361588095",
+           "url": "/pt-pt/collections/topai-ir-megztiniai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858929987967",
+           "title": "Megztiniai ir kardiganai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464735103",
+           "url": "/pt-pt/collections/megztiniai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930020735",
+           "title": "Kelnės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361751935",
+           "url": "/pt-pt/collections/moteriskos-kelnes",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930053503",
+           "title": "Sijonai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361883007",
+           "url": "/pt-pt/collections/sijonai-ir-sortai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930086271",
+           "title": "Šortai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464964479",
+           "url": "/pt-pt/collections/moteriski-sortai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930119039",
+           "title": "Kombinezonai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464636799",
+           "url": "/pt-pt/collections/macacoes",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930151807",
+           "title": "Komplektai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361555327",
+           "url": "/pt-pt/collections/komplektai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930184575",
+           "title": "Striukės ir paltai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361686399",
+           "url": "/pt-pt/collections/striukes-ir-paltai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930217343",
+           "title": "Švarkai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464669567",
+           "url": "/pt-pt/collections/svarkai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930250111",
+           "title": "Liemenės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464702335",
+           "url": "/pt-pt/collections/liemenes",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930282879",
+           "title": "Maudymosi kostiumėliai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694402580863",
+           "url": "/pt-pt/collections/maudymosi-kostiumeliai",
+           "tags": []
+          }
+         ]
+        },
+        {
+         "id": "gid://shopify/MenuItem/858930315647",
+         "title": "Avalynė",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361227647",
+         "url": "/pt-pt/collections/moteriska-avalyne",
+         "tags": [],
+         "items": [
+          {
+           "id": "gid://shopify/MenuItem/858930348415",
+           "title": "Sportbačiai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464800639",
+           "url": "/pt-pt/collections/sportiniai-batai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930381183",
+           "title": "Mokasinai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703467356543",
+           "url": "/pt-pt/collections/mocassins",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930413951",
+           "title": "Basutės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361981311",
+           "url": "/pt-pt/collections/basutes",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930446719",
+           "title": "Aukštakulniai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361948543",
+           "url": "/pt-pt/collections/aukstakulniai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930479487",
+           "title": "Balerinos",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694362210687",
+           "url": "/pt-pt/collections/balerinos",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930512255",
+           "title": "Aulinukai ir batai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694362079615",
+           "url": "/pt-pt/collections/aulinukai",
+           "tags": []
+          }
+         ]
+        },
+        {
+         "id": "gid://shopify/MenuItem/858930545023",
+         "title": "Aksesuarai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361260415",
+         "url": "/pt-pt/collections/moteriski-aksesuarai",
+         "tags": [],
+         "items": [
+          {
+           "id": "gid://shopify/MenuItem/858930577791",
+           "title": "Rankinės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694402482559",
+           "url": "/pt-pt/collections/rankines",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930610559",
+           "title": "Bižuterija",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694402449791",
+           "url": "/pt-pt/collections/bizuterija",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930643327",
+           "title": "Diržai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694402515327",
+           "url": "/pt-pt/collections/dirzai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930676095",
+           "title": "Kepurės ir skrybėlės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694403400063",
+           "url": "/pt-pt/collections/kepures-ir-skrybeles",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930708863",
+           "title": "Akiniai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464898943",
+           "url": "/pt-pt/collections/akiniai",
+           "tags": []
+          }
+         ]
+        },
+        {
+         "id": "gid://shopify/MenuItem/858930741631",
+         "title": "Išpardavimas",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694360637823",
+         "url": "/pt-pt/collections/moteru-ispardavimas",
+         "tags": [],
+         "items": []
+        }
+       ]
+      },
+      {
+       "id": "gid://shopify/MenuItem/858930774399",
+       "title": "Vyrams",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/694360539519",
+       "url": "/pt-pt/collections/vyrams",
+       "tags": [],
+       "items": [
+        {
+         "id": "gid://shopify/MenuItem/858930807167",
+         "title": "Drabužiai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694403629439",
+         "url": "/pt-pt/collections/vyriski-drabuziai",
+         "tags": [],
+         "items": [
+          {
+           "id": "gid://shopify/MenuItem/858930839935",
+           "title": "Marškiniai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694403105151",
+           "url": "/pt-pt/collections/marskiniai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930872703",
+           "title": "Polo marškinėliai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694403137919",
+           "url": "/pt-pt/collections/polo-marskineliai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930905471",
+           "title": "Marškinėliai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465193855",
+           "url": "/pt-pt/collections/marskineliai-vyrams",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930938239",
+           "title": "Megztiniai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465030015",
+           "url": "/pt-pt/collections/megztiniai-vyrams",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858930971007",
+           "title": "Kelnės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694403170687",
+           "url": "/pt-pt/collections/vyriskos-kelnes",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858931003775",
+           "title": "Šortai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464997247",
+           "url": "/pt-pt/collections/vyriski-sortai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858931036543",
+           "title": "Komplektai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465062783",
+           "url": "/pt-pt/collections/vyriski-komplektai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858931069311",
+           "title": "Striukės ir paltai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694403072383",
+           "url": "/pt-pt/collections/vyriskos-striukes-ir-paltai",
+           "tags": []
+          }
+         ]
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931102079",
+         "title": "Avalynė",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694403268991",
+         "url": "/pt-pt/collections/vyriska-avalyne",
+         "tags": [],
+         "items": [
+          {
+           "id": "gid://shopify/MenuItem/858931134847",
+           "title": "Sportbačiai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465095551",
+           "url": "/pt-pt/collections/vyriski-sportbaciai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858931167615",
+           "title": "Aulinukai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465128319",
+           "url": "/pt-pt/collections/vyriski-aulinukai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858931200383",
+           "title": "Batai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465161087",
+           "url": "/pt-pt/collections/vyriski-batai",
+           "tags": []
+          }
+         ]
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931233151",
+         "title": "Aksesuarai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703464538495",
+         "url": "/pt-pt/collections/aksesuarai-vyrams",
+         "tags": [],
+         "items": [
+          {
+           "id": "gid://shopify/MenuItem/858931265919",
+           "title": "Kepurės ir skrybėlės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694403400063",
+           "url": "/pt-pt/collections/kepures-ir-skrybeles",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858931298687",
+           "title": "Diržai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694402515327",
+           "url": "/pt-pt/collections/dirzai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858931331455",
+           "title": "Akiniai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464898943",
+           "url": "/pt-pt/collections/akiniai",
+           "tags": []
+          }
+         ]
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931364223",
+         "title": "Išpardavimas",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694404022655",
+         "url": "/pt-pt/collections/vyru-ispardavimas",
+         "tags": [],
+         "items": []
+        }
+       ]
+      },
+      {
+       "id": "gid://shopify/MenuItem/858931396991",
+       "title": "Kolekcijos",
+       "type": "HTTP",
+       "resourceId": null,
+       "url": "/collections",
+       "tags": [],
+       "items": [
+        {
+         "id": "gid://shopify/MenuItem/858931429759",
+         "title": "Vasara",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468667263",
+         "url": "/pt-pt/collections/verao",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931462527",
+         "title": "Žiema",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468700031",
+         "url": "/pt-pt/collections/inverno",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931495295",
+         "title": "Demisezonas",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468732799",
+         "url": "/pt-pt/collections/meia-estacao",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931528063",
+         "title": "Paplūdimys ir atostogos",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468470655",
+         "url": "/pt-pt/collections/praia-e-ferias",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931560831",
+         "title": "Vakarėliams",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468536191",
+         "url": "/pt-pt/collections/festa-e-noite",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931593599",
+         "title": "Vestuvėms ir svečiams",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468503423",
+         "url": "/pt-pt/collections/casamento-e-convidada",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931626367",
+         "title": "Darbui",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468568959",
+         "url": "/pt-pt/collections/trabalho-e-escritorio",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931659135",
+         "title": "Kasdienai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468634495",
+         "url": "/pt-pt/collections/dia-a-dia",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931691903",
+         "title": "Sportui",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468601727",
+         "url": "/pt-pt/collections/desporto",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931724671",
+         "title": "Boho",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468306815",
+         "url": "/pt-pt/collections/boho",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931757439",
+         "title": "Elegantiška",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468372351",
+         "url": "/pt-pt/collections/elegante",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931790207",
+         "title": "Vintage ir retro",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468274047",
+         "url": "/pt-pt/collections/vintage-e-retro",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931822975",
+         "title": "Plus Size",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703469814143",
+         "url": "/pt-pt/collections/plus-size",
+         "tags": [],
+         "items": []
+        }
+       ]
+      },
+      {
+       "id": "gid://shopify/MenuItem/858931855743",
+       "title": "Išpardavimas",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/702212473215",
+       "url": "/pt-pt/collections/ispardavimas",
+       "tags": [],
+       "items": [
+        {
+         "id": "gid://shopify/MenuItem/858931888511",
+         "title": "Moterims",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694360637823",
+         "url": "/pt-pt/collections/moteru-ispardavimas",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858931921279",
+         "title": "Vyrams",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694404022655",
+         "url": "/pt-pt/collections/vyru-ispardavimas",
+         "tags": [],
+         "items": []
+        }
+       ]
+      },
+      {
+       "id": "gid://shopify/MenuItem/858931954047",
+       "title": "Apie mus",
+       "type": "PAGE",
+       "resourceId": "gid://shopify/Page/708623434111",
+       "url": "/pt-pt/pages/apie-mus",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/858931986815",
+       "title": "Kontaktai",
+       "type": "PAGE",
+       "resourceId": "gid://shopify/Page/708623303039",
+       "url": "/pt-pt/pages/kontaktai",
+       "tags": [],
+       "items": []
+      }
+     ]
+    },
+    {
+     "id": "gid://shopify/Menu/323051946367",
+     "handle": "footer",
+     "title": "Greitos nuorodos",
+     "items": [
+      {
+       "id": "gid://shopify/MenuItem/855719838079",
+       "title": "Apie mus",
+       "type": "PAGE",
+       "resourceId": "gid://shopify/Page/708623434111",
+       "url": "/pt-pt/pages/apie-mus",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/855719870847",
+       "title": "DUK",
+       "type": "PAGE",
+       "resourceId": "gid://shopify/Page/708623368575",
+       "url": "/pt-pt/pages/duk",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/855719903615",
+       "title": "Dydžių lentelė",
+       "type": "PAGE",
+       "resourceId": "gid://shopify/Page/711062454655",
+       "url": "/pt-pt/pages/dydziu-lentele",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/855719936383",
+       "title": "Užsakymo sekimas",
+       "type": "PAGE",
+       "resourceId": "gid://shopify/Page/711062421887",
+       "url": "/pt-pt/pages/uzsakymo-sekimas",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/855719969151",
+       "title": "Kontaktai",
+       "type": "PAGE",
+       "resourceId": "gid://shopify/Page/708623303039",
+       "url": "/pt-pt/pages/kontaktai",
+       "tags": [],
+       "items": []
+      }
+     ]
+    },
+    {
+     "id": "gid://shopify/Menu/323051979135",
+     "handle": "customer-account-main-menu",
+     "title": "Menu principal da conta de cliente",
+     "items": [
+      {
+       "id": "gid://shopify/MenuItem/802985869695",
+       "title": "Encomendas",
+       "type": "CUSTOMER_ACCOUNT_PAGE",
+       "resourceId": "gid://shopify/CustomerAccountPage/251528085887",
+       "url": "https://shopify.com/100254417279/account/orders",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/802985902463",
+       "title": "Perfil",
+       "type": "CUSTOMER_ACCOUNT_PAGE",
+       "resourceId": "gid://shopify/CustomerAccountPage/251528118655",
+       "url": "https://shopify.com/100254417279/account/profile",
+       "tags": [],
+       "items": []
+      }
+     ]
+    },
+    {
+     "id": "gid://shopify/Menu/323367141759",
+     "handle": "menu-teste",
+     "title": "Mobilusis meniu",
+     "items": [
+      {
+       "id": "gid://shopify/MenuItem/858932674943",
+       "title": "Naujienos",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/702211981695",
+       "url": "/pt-pt/collections/naujienos",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/858932707711",
+       "title": "Perkamiausios",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/694360605055",
+       "url": "/pt-pt/collections/perkamiausios",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/858932740479",
+       "title": "Moterims",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/694346842495",
+       "url": "/pt-pt/collections/moterims",
+       "tags": [],
+       "items": [
+        {
+         "id": "gid://shopify/MenuItem/858932773247",
+         "title": "Suknelės",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694345335167",
+         "url": "/pt-pt/collections/sukneles",
+         "tags": [],
+         "items": [
+          {
+           "id": "gid://shopify/MenuItem/858932806015",
+           "title": "Vasarinės suknelės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465226623",
+           "url": "/pt-pt/collections/vasaros-sukneles",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858932838783",
+           "title": "Proginės suknelės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465259391",
+           "url": "/pt-pt/collections/vakarines-sukneles",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858932871551",
+           "title": "Ilgos suknelės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361293183",
+           "url": "/pt-pt/collections/ilgos-sukneles",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858932904319",
+           "title": "Midi suknelės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361358719",
+           "url": "/pt-pt/collections/midi-sukneles",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858932937087",
+           "title": "Trumpos suknelės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361391487",
+           "url": "/pt-pt/collections/trumpos-sukneles",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858932969855",
+           "title": "Boho suknelės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465292159",
+           "url": "/pt-pt/collections/boho-stiliaus-sukneles",
+           "tags": []
+          }
+         ]
+        },
+        {
+         "id": "gid://shopify/MenuItem/858933002623",
+         "title": "Drabužiai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361194879",
+         "url": "/pt-pt/collections/moteriski-drabuziai",
+         "tags": [],
+         "items": [
+          {
+           "id": "gid://shopify/MenuItem/858933035391",
+           "title": "Marškiniai ir palaidinės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361620863",
+           "url": "/pt-pt/collections/marskiniai-ir-palaidines",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933068159",
+           "title": "Topai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361588095",
+           "url": "/pt-pt/collections/topai-ir-megztiniai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933100927",
+           "title": "Megztiniai ir kardiganai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464735103",
+           "url": "/pt-pt/collections/megztiniai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933133695",
+           "title": "Kelnės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361751935",
+           "url": "/pt-pt/collections/moteriskos-kelnes",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933166463",
+           "title": "Sijonai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361883007",
+           "url": "/pt-pt/collections/sijonai-ir-sortai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933199231",
+           "title": "Šortai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464964479",
+           "url": "/pt-pt/collections/moteriski-sortai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933231999",
+           "title": "Kombinezonai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464636799",
+           "url": "/pt-pt/collections/macacoes",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933264767",
+           "title": "Komplektai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361555327",
+           "url": "/pt-pt/collections/komplektai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933297535",
+           "title": "Striukės ir paltai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361686399",
+           "url": "/pt-pt/collections/striukes-ir-paltai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933330303",
+           "title": "Švarkai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464669567",
+           "url": "/pt-pt/collections/svarkai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933363071",
+           "title": "Liemenės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464702335",
+           "url": "/pt-pt/collections/liemenes",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933395839",
+           "title": "Maudymosi kostiumėliai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694402580863",
+           "url": "/pt-pt/collections/maudymosi-kostiumeliai",
+           "tags": []
+          }
+         ]
+        },
+        {
+         "id": "gid://shopify/MenuItem/858933428607",
+         "title": "Avalynė",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361227647",
+         "url": "/pt-pt/collections/moteriska-avalyne",
+         "tags": [],
+         "items": [
+          {
+           "id": "gid://shopify/MenuItem/858933461375",
+           "title": "Sportbačiai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464800639",
+           "url": "/pt-pt/collections/sportiniai-batai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933494143",
+           "title": "Mokasinai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703467356543",
+           "url": "/pt-pt/collections/mocassins",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933526911",
+           "title": "Basutės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361981311",
+           "url": "/pt-pt/collections/basutes",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933559679",
+           "title": "Aukštakulniai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694361948543",
+           "url": "/pt-pt/collections/aukstakulniai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933592447",
+           "title": "Balerinos",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694362210687",
+           "url": "/pt-pt/collections/balerinos",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933625215",
+           "title": "Aulinukai ir batai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694362079615",
+           "url": "/pt-pt/collections/aulinukai",
+           "tags": []
+          }
+         ]
+        },
+        {
+         "id": "gid://shopify/MenuItem/858933657983",
+         "title": "Aksesuarai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361260415",
+         "url": "/pt-pt/collections/moteriski-aksesuarai",
+         "tags": [],
+         "items": [
+          {
+           "id": "gid://shopify/MenuItem/858933690751",
+           "title": "Rankinės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694402482559",
+           "url": "/pt-pt/collections/rankines",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933723519",
+           "title": "Bižuterija",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694402449791",
+           "url": "/pt-pt/collections/bizuterija",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933756287",
+           "title": "Diržai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694402515327",
+           "url": "/pt-pt/collections/dirzai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933789055",
+           "title": "Kepurės ir skrybėlės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694403400063",
+           "url": "/pt-pt/collections/kepures-ir-skrybeles",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933821823",
+           "title": "Akiniai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464898943",
+           "url": "/pt-pt/collections/akiniai",
+           "tags": []
+          }
+         ]
+        },
+        {
+         "id": "gid://shopify/MenuItem/858933854591",
+         "title": "Išpardavimas",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694360637823",
+         "url": "/pt-pt/collections/moteru-ispardavimas",
+         "tags": [],
+         "items": []
+        }
+       ]
+      },
+      {
+       "id": "gid://shopify/MenuItem/858933887359",
+       "title": "Vyrams",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/694360539519",
+       "url": "/pt-pt/collections/vyrams",
+       "tags": [],
+       "items": [
+        {
+         "id": "gid://shopify/MenuItem/858933920127",
+         "title": "Drabužiai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694403629439",
+         "url": "/pt-pt/collections/vyriski-drabuziai",
+         "tags": [],
+         "items": [
+          {
+           "id": "gid://shopify/MenuItem/858933952895",
+           "title": "Marškiniai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694403105151",
+           "url": "/pt-pt/collections/marskiniai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858933985663",
+           "title": "Polo marškinėliai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694403137919",
+           "url": "/pt-pt/collections/polo-marskineliai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858934018431",
+           "title": "Marškinėliai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465193855",
+           "url": "/pt-pt/collections/marskineliai-vyrams",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858934051199",
+           "title": "Megztiniai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465030015",
+           "url": "/pt-pt/collections/megztiniai-vyrams",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858934083967",
+           "title": "Kelnės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694403170687",
+           "url": "/pt-pt/collections/vyriskos-kelnes",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858934116735",
+           "title": "Šortai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464997247",
+           "url": "/pt-pt/collections/vyriski-sortai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858934149503",
+           "title": "Komplektai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465062783",
+           "url": "/pt-pt/collections/vyriski-komplektai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858934182271",
+           "title": "Striukės ir paltai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694403072383",
+           "url": "/pt-pt/collections/vyriskos-striukes-ir-paltai",
+           "tags": []
+          }
+         ]
+        },
+        {
+         "id": "gid://shopify/MenuItem/858934215039",
+         "title": "Avalynė",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694403268991",
+         "url": "/pt-pt/collections/vyriska-avalyne",
+         "tags": [],
+         "items": [
+          {
+           "id": "gid://shopify/MenuItem/858934247807",
+           "title": "Sportbačiai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465095551",
+           "url": "/pt-pt/collections/vyriski-sportbaciai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858934280575",
+           "title": "Aulinukai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465128319",
+           "url": "/pt-pt/collections/vyriski-aulinukai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858934313343",
+           "title": "Batai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703465161087",
+           "url": "/pt-pt/collections/vyriski-batai",
+           "tags": []
+          }
+         ]
+        },
+        {
+         "id": "gid://shopify/MenuItem/858934346111",
+         "title": "Aksesuarai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703464538495",
+         "url": "/pt-pt/collections/aksesuarai-vyrams",
+         "tags": [],
+         "items": [
+          {
+           "id": "gid://shopify/MenuItem/858934378879",
+           "title": "Kepurės ir skrybėlės",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694403400063",
+           "url": "/pt-pt/collections/kepures-ir-skrybeles",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858934411647",
+           "title": "Diržai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/694402515327",
+           "url": "/pt-pt/collections/dirzai",
+           "tags": []
+          },
+          {
+           "id": "gid://shopify/MenuItem/858934444415",
+           "title": "Akiniai",
+           "type": "COLLECTION",
+           "resourceId": "gid://shopify/Collection/703464898943",
+           "url": "/pt-pt/collections/akiniai",
+           "tags": []
+          }
+         ]
+        },
+        {
+         "id": "gid://shopify/MenuItem/858934477183",
+         "title": "Išpardavimas",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694404022655",
+         "url": "/pt-pt/collections/vyru-ispardavimas",
+         "tags": [],
+         "items": []
+        }
+       ]
+      },
+      {
+       "id": "gid://shopify/MenuItem/858934509951",
+       "title": "Kolekcijos",
+       "type": "HTTP",
+       "resourceId": null,
+       "url": "/collections",
+       "tags": [],
+       "items": [
+        {
+         "id": "gid://shopify/MenuItem/858934542719",
+         "title": "Vasara",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468667263",
+         "url": "/pt-pt/collections/verao",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858934575487",
+         "title": "Žiema",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468700031",
+         "url": "/pt-pt/collections/inverno",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858934608255",
+         "title": "Demisezonas",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468732799",
+         "url": "/pt-pt/collections/meia-estacao",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858934641023",
+         "title": "Paplūdimys ir atostogos",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468470655",
+         "url": "/pt-pt/collections/praia-e-ferias",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858934673791",
+         "title": "Vakarėliams",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468536191",
+         "url": "/pt-pt/collections/festa-e-noite",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858934706559",
+         "title": "Vestuvėms ir svečiams",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468503423",
+         "url": "/pt-pt/collections/casamento-e-convidada",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858934739327",
+         "title": "Darbui",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468568959",
+         "url": "/pt-pt/collections/trabalho-e-escritorio",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858934772095",
+         "title": "Kasdienai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468634495",
+         "url": "/pt-pt/collections/dia-a-dia",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858934804863",
+         "title": "Sportui",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468601727",
+         "url": "/pt-pt/collections/desporto",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858934837631",
+         "title": "Boho",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468306815",
+         "url": "/pt-pt/collections/boho",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858934870399",
+         "title": "Elegantiška",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468372351",
+         "url": "/pt-pt/collections/elegante",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858934903167",
+         "title": "Vintage ir retro",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468274047",
+         "url": "/pt-pt/collections/vintage-e-retro",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/858934935935",
+         "title": "Plus Size",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703469814143",
+         "url": "/pt-pt/collections/plus-size",
+         "tags": [],
+         "items": []
+        }
+       ]
+      },
+      {
+       "id": "gid://shopify/MenuItem/858934968703",
+       "title": "Išpardavimas",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/702212473215",
+       "url": "/pt-pt/collections/ispardavimas",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/858935001471",
+       "title": "Apie mus",
+       "type": "PAGE",
+       "resourceId": "gid://shopify/Page/708623434111",
+       "url": "/pt-pt/pages/apie-mus",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/858935034239",
+       "title": "Kontaktai",
+       "type": "PAGE",
+       "resourceId": "gid://shopify/Page/708623303039",
+       "url": "/pt-pt/pages/kontaktai",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/858935067007",
+       "title": "DUK",
+       "type": "PAGE",
+       "resourceId": "gid://shopify/Page/708623368575",
+       "url": "/pt-pt/pages/duk",
+       "tags": [],
+       "items": []
+      }
+     ]
+    },
+    {
+     "id": "gid://shopify/Menu/326154387839",
+     "handle": "politika",
+     "title": "Taisyklės ir politika",
+     "items": [
+      {
+       "id": "gid://shopify/MenuItem/811047616895",
+       "title": "Pristatymo taisyklės",
+       "type": "HTTP",
+       "resourceId": null,
+       "url": "/policies/shipping-policy",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/811047649663",
+       "title": "Taisyklės ir sąlygos",
+       "type": "HTTP",
+       "resourceId": null,
+       "url": "/policies/terms-of-service",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/811047682431",
+       "title": "Privatumo politika",
+       "type": "HTTP",
+       "resourceId": null,
+       "url": "/policies/privacy-policy",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/811047715199",
+       "title": "Grąžinimo politika",
+       "type": "HTTP",
+       "resourceId": null,
+       "url": "/policies/refund-policy",
+       "tags": [],
+       "items": []
+      }
+     ]
+    },
+    {
+     "id": "gid://shopify/Menu/331822236031",
+     "handle": "meniu-lt-v2",
+     "title": "Meniu LT — kategorijos",
+     "items": [
+      {
+       "id": "gid://shopify/MenuItem/859087700351",
+       "title": "Suknelės",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/694345335167",
+       "url": "/pt-pt/collections/sukneles",
+       "tags": [],
+       "items": [
+        {
+         "id": "gid://shopify/MenuItem/859087733119",
+         "title": "Visos suknelės",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694345335167",
+         "url": "/pt-pt/collections/sukneles",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859087765887",
+         "title": "Ilgos (maxi)",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361293183",
+         "url": "/pt-pt/collections/ilgos-sukneles",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859087798655",
+         "title": "Midi",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361358719",
+         "url": "/pt-pt/collections/midi-sukneles",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859087831423",
+         "title": "Trumpos (mini)",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361391487",
+         "url": "/pt-pt/collections/trumpos-sukneles",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859087864191",
+         "title": "Vasarinės",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703465226623",
+         "url": "/pt-pt/collections/vasaros-sukneles",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859087896959",
+         "title": "Vakarinės",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703465259391",
+         "url": "/pt-pt/collections/vakarines-sukneles",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859087929727",
+         "title": "Boho suknelės",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703465292159",
+         "url": "/pt-pt/collections/boho-stiliaus-sukneles",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859087962495",
+         "title": "Be rankovių",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703465488767",
+         "url": "/pt-pt/collections/vestidos-sem-mangas",
+         "tags": [],
+         "items": []
+        }
+       ]
+      },
+      {
+       "id": "gid://shopify/MenuItem/859087995263",
+       "title": "Drabužiai",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/694361194879",
+       "url": "/pt-pt/collections/moteriski-drabuziai",
+       "tags": [],
+       "items": [
+        {
+         "id": "gid://shopify/MenuItem/859088028031",
+         "title": "Visi drabužiai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361194879",
+         "url": "/pt-pt/collections/moteriski-drabuziai",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088060799",
+         "title": "Topai ir palaidinės",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361588095",
+         "url": "/pt-pt/collections/topai-ir-megztiniai",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088093567",
+         "title": "Megztiniai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703464735103",
+         "url": "/pt-pt/collections/megztiniai",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088126335",
+         "title": "Kardiganai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703465816447",
+         "url": "/pt-pt/collections/cardigans",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088159103",
+         "title": "Kombinezonai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703464636799",
+         "url": "/pt-pt/collections/macacoes",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088191871",
+         "title": "Komplektai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361555327",
+         "url": "/pt-pt/collections/komplektai",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088224639",
+         "title": "Kelnės",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361751935",
+         "url": "/pt-pt/collections/moteriskos-kelnes",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088257407",
+         "title": "Sijonai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361883007",
+         "url": "/pt-pt/collections/sijonai-ir-sortai",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088290175",
+         "title": "Švarkai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703464669567",
+         "url": "/pt-pt/collections/svarkai",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088322943",
+         "title": "Striukės ir paltai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361686399",
+         "url": "/pt-pt/collections/striukes-ir-paltai",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088355711",
+         "title": "Maudymosi kostiumėliai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694402580863",
+         "url": "/pt-pt/collections/maudymosi-kostiumeliai",
+         "tags": [],
+         "items": []
+        }
+       ]
+      },
+      {
+       "id": "gid://shopify/MenuItem/859088388479",
+       "title": "Avalynė",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/703464472959",
+       "url": "/pt-pt/collections/avalyne",
+       "tags": [],
+       "items": [
+        {
+         "id": "gid://shopify/MenuItem/859088421247",
+         "title": "Visa avalynė",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703464472959",
+         "url": "/pt-pt/collections/avalyne",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088454015",
+         "title": "Basutės",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361981311",
+         "url": "/pt-pt/collections/basutes",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088486783",
+         "title": "Sportbačiai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703464800639",
+         "url": "/pt-pt/collections/sportiniai-batai",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088519551",
+         "title": "Mokasinai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703467356543",
+         "url": "/pt-pt/collections/mocassins",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088552319",
+         "title": "Bateliai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703464866175",
+         "url": "/pt-pt/collections/bateliai",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088585087",
+         "title": "Aukštakulniai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694361948543",
+         "url": "/pt-pt/collections/aukstakulniai",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088617855",
+         "title": "Aulinukai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694362079615",
+         "url": "/pt-pt/collections/aulinukai",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088650623",
+         "title": "Balerinos",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694362210687",
+         "url": "/pt-pt/collections/balerinos",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088683391",
+         "title": "Šlepetės",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703467258239",
+         "url": "/pt-pt/collections/chinelos",
+         "tags": [],
+         "items": []
+        }
+       ]
+      },
+      {
+       "id": "gid://shopify/MenuItem/859088716159",
+       "title": "Aksesuarai",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/703464505727",
+       "url": "/pt-pt/collections/aksesuarai",
+       "tags": [],
+       "items": [
+        {
+         "id": "gid://shopify/MenuItem/859088748927",
+         "title": "Visi aksesuarai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703464505727",
+         "url": "/pt-pt/collections/aksesuarai",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088781695",
+         "title": "Rankinės",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694402482559",
+         "url": "/pt-pt/collections/rankines",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088814463",
+         "title": "Papuošalai",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/694402449791",
+         "url": "/pt-pt/collections/bizuterija",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088847231",
+         "title": "Akiniai nuo saulės",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703464898943",
+         "url": "/pt-pt/collections/akiniai",
+         "tags": [],
+         "items": []
+        }
+       ]
+      },
+      {
+       "id": "gid://shopify/MenuItem/859088879999",
+       "title": "Pagal stilių",
+       "type": "HTTP",
+       "resourceId": null,
+       "url": "/collections",
+       "tags": [],
+       "items": [
+        {
+         "id": "gid://shopify/MenuItem/859088912767",
+         "title": "Elegantiška",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468372351",
+         "url": "/pt-pt/collections/elegante",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088945535",
+         "title": "Kasdienis stilius",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468437887",
+         "url": "/pt-pt/collections/casual",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859088978303",
+         "title": "Boho",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468306815",
+         "url": "/pt-pt/collections/boho",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859089011071",
+         "title": "Vintage ir retro",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468274047",
+         "url": "/pt-pt/collections/vintage-e-retro",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859089043839",
+         "title": "Darbui",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468568959",
+         "url": "/pt-pt/collections/trabalho-e-escritorio",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859089076607",
+         "title": "Vakarėliams",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468536191",
+         "url": "/pt-pt/collections/festa-e-noite",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859089109375",
+         "title": "Paplūdimys ir atostogos",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468470655",
+         "url": "/pt-pt/collections/praia-e-ferias",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859089142143",
+         "title": "Vestuvėms ir svečiams",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468503423",
+         "url": "/pt-pt/collections/casamento-e-convidada",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859089174911",
+         "title": "Vasara",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468667263",
+         "url": "/pt-pt/collections/verao",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859089207679",
+         "title": "Žiema",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468700031",
+         "url": "/pt-pt/collections/inverno",
+         "tags": [],
+         "items": []
+        },
+        {
+         "id": "gid://shopify/MenuItem/859089240447",
+         "title": "Demisezonas",
+         "type": "COLLECTION",
+         "resourceId": "gid://shopify/Collection/703468732799",
+         "url": "/pt-pt/collections/meia-estacao",
+         "tags": [],
+         "items": []
+        }
+       ]
+      },
+      {
+       "id": "gid://shopify/MenuItem/859089273215",
+       "title": "Plus Size",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/703469814143",
+       "url": "/pt-pt/collections/plus-size",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/859089305983",
+       "title": "Išpardavimas",
+       "type": "COLLECTION",
+       "resourceId": "gid://shopify/Collection/702212473215",
+       "url": "/pt-pt/collections/ispardavimas",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/859089338751",
+       "title": "Apie mus",
+       "type": "PAGE",
+       "resourceId": "gid://shopify/Page/708623434111",
+       "url": "/pt-pt/pages/apie-mus",
+       "tags": [],
+       "items": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/859089371519",
+       "title": "Kontaktai",
+       "type": "PAGE",
+       "resourceId": "gid://shopify/Page/708623303039",
+       "url": "/pt-pt/pages/kontaktai",
+       "tags": [],
+       "items": []
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

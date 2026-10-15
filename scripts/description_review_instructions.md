@@ -83,3 +83,9 @@ product, in the same order:
   parses and the count equals the number of input products; fix the file if not.
 
 Work through every product carefully – read the whole description each time.
+
+## 4. Extra rules (added after the first batches)
+
+- If a product has only one size, remove sizing advice such as "rinkitės vienu dydžiu didesnį".
+- Keep the product noun in the description consistent with the title and productType
+  (don't call a cardigan "suknelė", a hoodie "striukė", etc.).
