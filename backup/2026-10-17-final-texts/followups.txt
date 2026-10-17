@@ -1,0 +1,16 @@
+- Gražina (handle jarna-midilange-ringelkleid): productType Komplektai -> Suknelės
+- b01 #37 Lina (cat collage, only size S): remove "rinkitės vienu dydžiu didesnį"
+- Irma blazer (b02): color alyvinė vs olive in text — check photo
+- Neringa (b14): productType "Rankinės" but it's shoes (sizes 36–43) -> fix type
+- Vaida, Gintarė (b14): descriptions said sandals vs title sneakers — check photo
+- Goda (b15): productType "Basutės" but description = loafers (mokasinai) -> check type
+- Aurelija (b15): remove copied customer quote "Hélène M., 61 m."
+- GLOBAL: scan all finals for testimonial quotes / "patenkintų klientų" claims; check duplicate titles across batches
+- Rasa citrinos (b25): productType "Švarkai" but dungarees -> Kombinezonai
+- Jonas (b25): men's vs women's boots — check
+- Vėjūnė (b28 #18): productType Švarkai but jumpsuit -> Kombinezonai
+- GLOBAL: productType vs new title mismatch (e.g. Švarkai -> kombinezonas, Rankinės -> batai) — fix types at end
+- Vitalija (b30): description image 'Verberg_Man_Boobs…' unrelated -> remove; GLOBAL scan for suspicious img filenames/empty imgs
+- GLOBAL scan: 'dešimtmeči* patirt', 'rankų darbo' supplier claims (bags b33) — remove/neutralize
+- GLOBAL scan: 'jubiliej', 'metų patirt', 'metų tradicij'
+- GLOBAL: size tables in inches (b38 etc.) -> convert to cm

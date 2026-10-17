@@ -89,3 +89,7 @@ Work through every product carefully – read the whole description each time.
 - If a product has only one size, remove sizing advice such as "rinkitės vienu dydžiu didesnį".
 - Keep the product noun in the description consistent with the title and productType
   (don't call a cardigan "suknelė", a hoodie "striukė", etc.).
+- Remove customer testimonials / review quotes copied from suppliers (e.g. „…“ – Hélène M., 61 m.):
+  they are not reviews of this store. Also remove "X tūkst. patenkintų klientų" style claims.
+- Remove supplier brand-history claims such as "30-ies metų jubiliejinė kolekcija", "dešimtmečių patirtis",
+  "X metų tradicija" – the store's own history is described elsewhere.
